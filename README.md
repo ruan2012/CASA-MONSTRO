@@ -1,5 +1,4 @@
 # CASA-MONSTRO
-HTML Casa Monstro
 
 [segredodacasamonstro.html](https://github.com/user-attachments/files/21803128/segredodacasamonstro.html)
 <h1>SEGREDOS DA CASA MONSTRO</h1>
